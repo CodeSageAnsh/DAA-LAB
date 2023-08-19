@@ -1,0 +1,2 @@
+GCD of 3 and 4 is 1
+GCD of 5 and 6 is 1

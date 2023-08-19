@@ -1,0 +1,3 @@
+Total duplicate numbers in the array: 1
+Duplicate numbers and their occurrences:
+3 occurs 2 time(s)

@@ -1,0 +1,6 @@
+Array Elements:
+5 1 2 3 4 5 
+Sum: 20
+Average: 3.33
+Maximum Element: 5
+Minimum Element: 1
